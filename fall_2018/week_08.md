@@ -2,7 +2,7 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-Went to the bonus session as we usually do on Wednesday to meet up with the group to flesh out what needs to be done. Updated my local system and made sure everything was working as intended. Gave feedback on the frontend design. Noted how it's important to make sure that the site is mobile-friendly (important in modern sites).
+Also wanted to note that I made edits to the Wiki, which I believe don't show up as commits in Github (although I'm not 100% sure on that). Went to the bonus session as we usually do on Wednesday to meet up with the group to flesh out what needs to be done. Updated my local system and made sure everything was working as intended. Gave feedback on the frontend design. Noted how it's important to make sure that the site is mobile-friendly (important in modern sites).
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
@@ -23,7 +23,7 @@ There are two main things I want to get done before the semester end:
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-I don't want to make useless commits, but I feel like if I don't make any more commits that may lower my grade. I'll probably talk to a few people about it. 
+I don't want to make useless commits, but I feel like if I don't make any more commits that may lower my grade. I'll probably talk to a few people about it. Also Django again giving me trouble.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
